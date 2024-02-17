@@ -1,0 +1,553 @@
+month,state,cases,rainfall in mm,temperature,avg relative humidity,mosquito,disease
+jan,rajasthan,12,24.4,17.78,37.22,anopheles,malaria
+mar,rajasthan,8,2.1,27.96,24.17,anopheles,malaria
+may,rajasthan,14,5.7,37.89,19.33,anopheles,malaria
+jun,rajasthan,28,55.1,37.67,32.15,anopheles,malaria
+jul,rajasthan,97,270.2,34,51.92,anopheles,malaria
+aug ,rajasthan,172,216.8,31.2,64.5,anopheles,malaria
+sep,rajasthan,291,54.2,31.2,53.27,anopheles,malaria
+nov,rajasthan,114,1.1,24.77,29.02,anopheles,malaria
+jan,punjab,1,28.85,14.09,58.02,anopheles,malaria
+mar,punjab,2,31.43,24.01,48.06,anopheles,malaria
+may,punjab,4,17.17,27.92,20.05,anopheles,malaria
+jun,punjab,14,24.91,31,26.37,anopheles,malaria
+jul,punjab,17,85.55,29.5,49.06,anopheles,malaria
+aug ,punjab,20,125.3,26.7,64.55,anopheles,malaria
+sep,punjab,39,63.41,24.48,34.15,anopheles,malaria
+nov,punjab,9,6.93,16.14,29.69,anopheles,malaria
+jan,uttar pradesh,246,13.85,17.59,55.45,anopheles,malaria
+mar,uttar pradesh,403,9.31,28.63,32.32,anopheles,malaria
+may,uttar pradesh,126,5.95,39.58,21.28,anopheles,malaria
+jun,uttar pradesh,1018,54.17,38.8,34.18,anopheles,malaria
+jul,uttar pradesh,483,169.45,33.7,61.77,anopheles,malaria
+aug ,uttar pradesh,1516,127.07,32.1,68.85,anopheles,malaria
+sep,uttar pradesh,5700,91.24,31.12,66.74,anopheles,malaria
+nov,uttar pradesh,878,16.34,25.17,38.14,anopheles,malaria
+jan,uttarakhand,0,34.68,12.85,48.19,anopheles,malaria
+mar,uttarakhand,0,23.57,22.39,35.99,anopheles,malaria
+may,uttarakhand,0,21.36,32.68,26.53,anopheles,malaria
+jun,uttarakhand,1,106.05,33.23,40.62,anopheles,malaria
+jul,uttarakhand,1,342.29,28.87,72.61,anopheles,malaria
+aug ,uttarakhand,9,358.35,27.12,81.54,anopheles,malaria
+sep,uttarakhand,3,141.99,26.11,75.54,anopheles,malaria
+nov,uttarakhand,0,1.75,14.26,45.7,anopheles,malaria
+jan,gujarat,79,0,23.5,34.99,anopheles,malaria
+mar,gujarat,155,0.18,30.88,31.23,anopheles,malaria
+may,gujarat,251,0.09,35.8,45.6,anopheles,malaria
+jun,gujarat,339,8.91,33.8,57.4,anopheles,malaria
+jul,gujarat,660,18.09,29.9,73,anopheles,malaria
+aug ,gujarat,843,16.82,28.65,77,anopheles,malaria
+sep,gujarat,921,12.27,29.39,72.8,anopheles,malaria
+nov,gujarat,446,0,29.36,33.8,anopheles,malaria
+jan,jammu & kashmir,1,37.39,13.84,39.24,anopheles,malaria
+mar,jammu & kashmir,1,61.17,22.05,41.17,anopheles,malaria
+may,jammu & kashmir,3,16.28,33.9,23.68,anopheles,malaria
+jun,jammu & kashmir,8,22.2,36.38,27.26,anopheles,malaria
+jul,jammu & kashmir,7,68.05,34.35,46.99,anopheles,malaria
+aug ,jammu & kashmir,3,97.23,31.74,60.1,anopheles,malaria
+sep,jammu & kashmir,9,53.4,30.19,50.48,anopheles,malaria
+nov,jammu & kashmir,6,11.09,20.64,26.99,anopheles,malaria
+jan,himachal pradesh,0,52.5,8.5,46.8,anopheles,malaria
+mar,himachal pradesh,1,68,16.3,45.3,anopheles,malaria
+may,himachal pradesh,2,53.9,25.6,36.1,anopheles,malaria
+jun,himachal pradesh,3,116.14,26.7,47.2,anopheles,malaria
+jul,himachal pradesh,2,304.58,24.04,77.5,anopheles,malaria
+aug ,himachal pradesh,6,348.35,22.7,86.18,anopheles,malaria
+sep,himachal pradesh,3,148.5,21.58,76.1,anopheles,malaria
+nov,himachal pradesh,1,10.2,13.99,43.15,anopheles,malaria
+jan,bihar,30,4.3,18.65,55.99,anopheles,malaria
+mar,bihar,28,3.3,30,30.01,anopheles,malaria
+may,bihar,17,15.45,38.52,33.3,anopheles,malaria
+jun,bihar,27,34.8,37.44,44.65,anopheles,malaria
+jul,bihar,48,97.9,33.02,65.77,anopheles,malaria
+aug ,bihar,72,93.3,32.33,68.8,anopheles,malaria
+sep,bihar,110,83.8,30.98,71.2,anopheles,malaria
+nov,bihar,114,0.4,25.02,48.13,anopheles,malaria
+jan,maharastrarastrarastrarastra,1116,1.5,24.3,36.3,anopheles,malaria
+mar,maharastrarastrarastrarastra,533,2.8,31.9,20.7,anopheles,malaria
+may,maharastrarastrarastrarastra,460,4.16,36.9,23.66,anopheles,malaria
+jun,maharastrarastrarastrarastra,853,125,31.8,54.1,anopheles,malaria
+jul,maharastrarastrarastrarastra,3429,218.6,27.84,71.4,anopheles,malaria
+aug ,maharastrarastrarastrarastra,3287,203.28,26.78,77.1,anopheles,malaria
+sep,maharastrarastrarastrarastra,1764,153.9,27.2,74.8,anopheles,malaria
+nov,maharastrarastrarastrarastra,1003,8.52,25.5,49.1,anopheles,malaria
+jan,goa,4,1.2,27.9,56.8,anopheles,malaria
+mar,goa,4,1.2,29.77,63.8,anopheles,malaria
+may,goa,3,12.9,30.8,73.2,anopheles,malaria
+jun,goa,9,344.7,28.13,81.5,anopheles,malaria
+jul,goa,9,361.6,26.71,86,anopheles,malaria
+aug ,goa,6,352.3,26.63,85.9,anopheles,malaria
+sep,goa,3,208.04,27.19,83.7,anopheles,malaria
+nov,goa,4,25.25,28.8,64.71,anopheles,malaria
+jan,delhi,2,7,15.55,54.74,anopheles,malaria
+mar,delhi,4,6.74,26.26,38.1,anopheles,malaria
+may,delhi,3,3.55,38.8,18.13,anopheles,malaria
+jun,delhi,8,15.84,39.21,28.98,anopheles,malaria
+jul,delhi,8,79.21,34.88,53.52,anopheles,malaria
+aug ,delhi,42,73.94,32.9,61.5,anopheles,malaria
+sep,delhi,71,37.22,32.08,55.9,anopheles,malaria
+nov,delhi,18,2.65,24.56,30.95,anopheles,malaria
+jan,haryana,0,11.7,15.7,49.7,anopheles,malaria
+mar,haryana,2,13.6,26.11,37.65,anopheles,malaria
+may,haryana,2,6.5,38.9,17.36,anopheles,malaria
+jun,haryana,8,15.7,39.59,27,anopheles,malaria
+jul,haryana,12,67.8,35.9,47.9,anopheles,malaria
+aug ,haryana,16,72.3,33.76,57.3,anopheles,malaria
+sep,haryana,21,40.5,32.6,51.6,anopheles,malaria
+nov,haryana,3,3.99,24.34,29.26,anopheles,malaria
+jan,chhatisgarh,3154,13.84,22.3,44.19,anopheles,malaria
+mar,chhatisgarh,2247,8.66,32.23,25.57,anopheles,malaria
+may,chhatisgarh,1958,9.19,39.6,22.2,anopheles,malaria
+jun,chhatisgarh,1832,96.26,35.32,47.4,anopheles,malaria
+jul,chhatisgarh,3983,176.5,30.02,71.65,anopheles,malaria
+aug ,chhatisgarh,3834,260.6,28.65,79.15,anopheles,malaria
+sep,chhatisgarh,2923,150.16,28.6,77.3,anopheles,malaria
+nov,chhatisgarh,3071,5.88,24.9,52.45,anopheles,malaria
+jan,orissa,1600,4.8,22.5,53.9,anopheles,malaria
+mar,orissa,1627,12.7,32.2,43.3,anopheles,malaria
+may,orissa,2092,44.55,37.1,50.9,anopheles,malaria
+jun,orissa,32210,1117.66,34.34,59.37,anopheles,malaria
+jul,orissa,7466,170,30.5,74.5,anopheles,malaria
+aug ,orissa,3559,178.4,29.7,78.7,anopheles,malaria
+sep,orissa,1995,149.4,29.5,78.6,anopheles,malaria
+nov,orissa,1615,4.8,25.4,67.7,anopheles,malaria
+jan,west bengal,252,2.5,21.9,45.9,anopheles,malaria
+mar,west bengal,500,5.95,31.11,43.5,anopheles,malaria
+may,west bengal,848,67.54,35.6,57.2,anopheles,malaria
+jun,west bengal,1619,69.94,34.5,62.33,anopheles,malaria
+jul,west bengal,3121,99.6,31.6,74.2,anopheles,malaria
+aug ,west bengal,6623,131.3,30.78,79,anopheles,malaria
+sep,west bengal,12618,101,29.9,80.5,anopheles,malaria
+nov,west bengal,4029,1.12,25.8,57.4,anopheles,malaria
+jan,a&n island,1,50.9,27.4,73.8,anopheles,malaria
+mar,andaman nicobar,6,22.02,28.5,69.79,anopheles,malaria
+may,andaman nicobar,11,195.9,29.8,74.7,anopheles,malaria
+jun,andaman nicobar,6,250.6,28.9,79.49,anopheles,malaria
+jul,andaman nicobar,4,251.9,28.4,80.4,anopheles,malaria
+aug ,andaman nicobar,1,250.22,28.3,80.2,anopheles,malaria
+sep,andaman nicobar,1,303.9,28.12,79.3,anopheles,malaria
+nov,andaman nicobar,22,143.9,28.55,75.6,anopheles,malaria
+jan,arunachal pradesh,59,9.07,25.8,71.66,anopheles,malaria
+mar,arunachal pradesh,145,4.9,31.6,61.9,anopheles,malaria
+may,arunachal pradesh,157,19.06,37.4,48.19,anopheles,malaria
+jun,arunachal pradesh,240,74.88,34.6,51.3,anopheles,malaria
+jul,arunachal pradesh,426,76.2,32.4,57.6,anopheles,malaria
+aug ,arunachal pradesh,373,103.3,31.5,63.6,anopheles,malaria
+sep,arunachal pradesh,296,91.6,30.5,70.3,anopheles,malaria
+nov,arunachal pradesh,108,65.8,26.5,75.3,anopheles,malaria
+jan,arunachal pradesh,0,14.6,18.5,61.69,anopheles,malaria
+mar,arunachal pradesh,1,61.5,24.5,59.9,anopheles,malaria
+may,arunachal pradesh,3,189,28.2,75.2,anopheles,malaria
+jun,arunachal pradesh,5,326.1,29.1,82.3,anopheles,malaria
+jul,arunachal pradesh,2,491.6,28.4,86.4,anopheles,malaria
+aug ,arunachal pradesh,4,406.8,29.4,83.5,anopheles,malaria
+sep,arunachal pradesh,2,276.12,28.1,83.6,anopheles,malaria
+nov,arunachal pradesh,1,1536,21.7,72.3,anopheles,malaria
+jan,assam,14,12,26.6,68.5,anopheles,malaria
+mar,assam,10,35.9,29.5,53.3,anopheles,malaria
+may,assam,28,225.17,29.2,79.24,anopheles,malaria
+jun,assam,46,323.7,30,81.8,anopheles,malaria
+jul,assam,29,348.1,28.7,85.7,anopheles,malaria
+aug ,assam,35,284.8,26.4,82.7,anopheles,malaria
+sep,assam,32,243.3,22.8,83.7,anopheles,malaria
+nov,assam,62,17.8,26.14,77.1,anopheles,malaria
+jan,d&n haveli,2,0.6,25.11,51.9,anopheles,malaria
+mar,d&n haveli,1,1.3,28.7,53.4,anopheles,malaria
+may,d&n haveli,5,1.66,30.9,71.66,anopheles,malaria
+jun,d&n haveli,5,203.6,29.7,77.8,anopheles,malaria
+jul,d&n haveli,14,471.2,27.88,84.5,anopheles,malaria
+aug ,d&n haveli,5,344.4,27.2,86.1,anopheles,malaria
+sep,d&n haveli,5,156.7,27.5,83.01,anopheles,malaria
+nov,d&n haveli,2,8.4,28.3,56.8,anopheles,malaria
+jan,karnatak,101,2.03,25.7,45.2,anopheles,malaria
+mar,karnatak,42,1.7,31.99,32.8,anopheles,malaria
+may,karnatak,29,34.3,33.27,47.8,anopheles,malaria
+jun,karnatak,78,87.1,27.9,68.2,anopheles,malaria
+jul,karnatak,122,78.4,25.8,74.4,anopheles,malaria
+aug ,karnatak,131,71.3,26.28,76.2,anopheles,malaria
+sep,karnatak,119,119.3,26,75.6,anopheles,malaria
+nov,karnatak,64,20.4,25.5,61.29,anopheles,malaria
+jan,kerala,27,5.4,27.85,63.3,anopheles,malaria
+mar,kerala,19,40.5,30.74,65.68,anopheles,malaria
+may,kerala,40,159.3,29.48,78.93,anopheles,malaria
+jun,kerala,22,260.1,26.85,83.9,anopheles,malaria
+jul,kerala,47,224.3,26.26,84.8,anopheles,malaria
+aug ,kerala,53,229.2,26.23,85.33,anopheles,malaria
+sep,kerala,68,186.6,26.79,83.8,anopheles,malaria
+nov,kerala,37,98.6,27.32,77.39,anopheles,malaria
+jan,madhya pradesh,43,8.33,20.23,46.64,anopheles,malaria
+mar,madhya pradesh,127,10.3,30.5,24.333,anopheles,malaria
+may,madhya pradesh,168,2,39.24,17.38,anopheles,malaria
+jun,madhya pradesh,239,108.47,35.4,44.24,anopheles,malaria
+jul,madhya pradesh,510,219.6,29.37,74.5,anopheles,malaria
+aug ,madhya pradesh,801,246.27,27.73,82.18,anopheles,malaria
+sep,madhya pradesh,962,159.7,28.16,75.8,anopheles,malaria
+nov,madhya pradesh,557,1.15,24.5,45.29,anopheles,malaria
+jan,manipur,0,6.5,15.2,72.6,anopheles,malaria
+mar,manipur,0,17.08,22.4,64.8,anopheles,malaria
+may,manipur,1,158.88,25.28,75.12,anopheles,malaria
+jun,manipur,9,232.23,25.16,86.7,anopheles,malaria
+jul,manipur,5,276.8,24.36,90.5,anopheles,malaria
+aug ,manipur,3,217.2,24.58,89.6,anopheles,malaria
+sep,manipur,1,170.65,24.07,88.2,anopheles,malaria
+nov,manipur,0,14.5,19.02,79.4,anopheles,malaria
+jan,tamil nadu,34,5.2,26.56,71.2,anopheles,malaria
+mar,tamil nadu,36,11.7,31.85,57.45,anopheles,malaria
+may,tamil nadu,36,47.1,35.11,51.09,anopheles,malaria
+jun,tamil nadu,30,34.09,33.3,50.9,anopheles,malaria
+jul,tamil nadu,43,42.48,32.77,51.56,anopheles,malaria
+aug ,tamil nadu,69,65.38,32.06,56.12,anopheles,malaria
+sep,tamil nadu,111,81.6,31.6,60,anopheles,malaria
+nov,tamil nadu,62,97.15,27.37,77,anopheles,malaria
+jan,telangana,58,7.15,24.46,48,anopheles,malaria
+mar,telangana,56,4.54,31.86,30.22,anopheles,malaria
+may,telangana,69,8.86,37.57,28.03,anopheles,malaria
+jun,telangana,39,127.7,31.83,55.4,anopheles,malaria
+jul,telangana,165,206.35,27.81,73.16,anopheles,malaria
+aug ,telangana,86,182.12,26.9,78.59,anopheles,malaria
+sep,telangana,48,129.9,27.3,77.5,anopheles,malaria
+nov,telangana,45,7.65,25.14,60.01,anopheles,malaria
+jan,mizoram,310,11.6,18.33,70.03,anopheles,malaria
+mar,mizoram,117,17.5,25.9,57.9,anopheles,malaria
+may,mizoram,724,180.8,28.6,76,anopheles,malaria
+jun,mizoram,1614,281.8,27.1,86.88,anopheles,malaria
+jul,mizoram,2509,286.8,26.4,90.11,anopheles,malaria
+aug ,mizoram,1767,262,26.48,90.44,anopheles,malaria
+sep,mizoram,775,224.8,26.3,89.57,anopheles,malaria
+nov,mizoram,400,20.55,22.58,76.58,anopheles,malaria
+jan,tripura,229,3.25,20.1,65.47,anopheles,malaria
+mar,tripura,116,55.15,27.51,54.97,anopheles,malaria
+may,tripura,1819,431.5,29.9,78.9,anopheles,malaria
+jun,tripura,3881,442.28,29.35,86.15,anopheles,malaria
+jul,tripura,1951,327.74,28.64,88.7,anopheles,malaria
+aug ,tripura,1256,403.5,28.85,87.8,anopheles,malaria
+sep,tripura,784,328,28.46,87.6,anopheles,malaria
+nov,tripura,848,17.05,23.6,78.25,anopheles,malaria
+jan,jharkhand,954,9.46,18.83,48.88,anopheles,malaria
+mar,jharkhand,550,26.17,28.46,29.57,anopheles,malaria
+may,jharkhand,493,19.89,35.4,33.5,anopheles,malaria
+jun,jharkhand,1043,89.47,32.9,53.9,anopheles,malaria
+jul,jharkhand,2115,215.9,28.34,79,anopheles,malaria
+aug ,jharkhand,3199,222.9,27.57,83.4,anopheles,malaria
+sep,jharkhand,2748,131.14,26.98,82.18,anopheles,malaria
+nov,jharkhand,2402,3.27,22.05,58.1,anopheles,malaria
+2018,arunachal pradesh,4011,47.54,30.63,64.4,aedes,dengue
+2018,arunachal pradesh,1,170.9,25.08,73.22,aedes,dengue
+2018,assam,188,145,26.1,73.8,aedes,dengue
+2018,bihar,2142,31.22,29.5,50.4,aedes,dengue
+2018,chhatisgarh,2674,67.04,29.6,49.2,aedes,dengue
+2018,goa,335,118.4,28.5,71.4,aedes,dengue
+2018,gujarat,7579,49.06,29.95,47.57,aedes,dengue
+2018,haryana,1898,21.3,29.1,37.9,aedes,dengue
+2018,himachal pradesh,4672,105,18.4,53.4,aedes,dengue
+2018,jammu & kashmir,214,40.7,25.88,37.8,aedes,dengue
+2018,jharkhand,463,70.76,26.78,55.14,aedes,dengue
+2018,karnatak,4427,45.58,28.03,56.5,aedes,dengue
+2018,kerala,4827,128.3,28.03,75.7,aedes,dengue
+2018,lakshdweep,0,90.35,28.19,74.8,aedes,dengue
+2018,madhya pradesh,4506,66.2,28.7,46.9,aedes,dengue
+2018,meghalaya,44,301,19.06,84.4,aedes,dengue
+2018,maha,11011,64.14,28.9,45.9,aedes,dengue
+2018,manipur,14,110.9,21.77,77.6,aedes,dengue
+2018,mizoram,68,128.9,24.75,76.8,aedes,dengue
+2018,nagaland,369,171.22,25.05,75.6,aedes,dengue
+2018,orissa,5198,71.4,29.68,60.4,aedes,dengue
+2018,punjab,14890,38.4,27.98,42.8,aedes,dengue
+2018,rajasthan,9587,25.4,29,35.11,aedes,dengue
+2018,sikkim,320,105.4,14.4,63.03,aedes,dengue
+2018,tamil nadu,4486,49.6,30.8,61.5,aedes,dengue
+2018,tripura,100,203,26.4,75.7,aedes,dengue
+2018,telangana,4592,63.7,28.9,53.8,aedes,dengue
+2018,uttar pradesh,3829,43.3,29.4,45.1,aedes,dengue
+2018,uttarakhand,689,92.3,23.6,49.9,aedes,dengue
+2018,a&n island,49,151.21,28.4,75.7,aedes,dengue
+2018,chandigarh,301,55.6,25.5,45.6,aedes,dengue
+2018,delhi,7136,20.88,28.9,40.7,aedes,dengue
+2018,d&n haveli,493,107,28.15,66.8,aedes,dengue
+2018,pudducherry,592,171.2,29.4,71.2,aedes,dengue
+2018,arunachal pradesh,79,47.54,30.63,64.4,aegypti,chikunguniya
+2018,arunachal pradesh,1,170.9,25.08,73.22,aegypti,chikunguniya
+2018,assam,3,145,26.1,73.8,aegypti,chikunguniya
+2018,bihar,156,31.22,29.5,50.4,aegypti,chikunguniya
+2018,chhatisgarh,0,67.04,29.6,49.2,aegypti,chikunguniya
+2018,goa,77,118.4,28.5,71.4,aegypti,chikunguniya
+2018,gujarat,1290,49.06,29.95,47.57,aegypti,chikunguniya
+2018,haryana,3,21.3,29.1,37.9,aegypti,chikunguniya
+2018,himachal pradesh,0,105,18.4,53.4,aegypti,chikunguniya
+2018,jharkhand,851,70.76,26.78,55.14,aegypti,chikunguniya
+2018,karnatak,2546,45.58,28.03,56.5,aegypti,chikunguniya
+2018,kerala,77,128.3,28.03,75.7,aegypti,chikunguniya
+2018,madhya pradesh,1609,66.2,28.7,46.9,aegypti,chikunguniya
+2018,meghalaya,2,301,19.06,84.4,aegypti,chikunguniya
+2018,maharastrarastrarastrarastra,1009,64.14,28.9,45.9,aegypti,chikunguniya
+2018,manipur,0,110.9,21.77,77.6,aegypti,chikunguniya
+2018,orissa,0,71.4,29.68,60.4,aegypti,chikunguniya
+2018,punjab,25,38.4,27.98,42.8,aegypti,chikunguniya
+2018,rajasthan,254,25.4,29,35.11,aegypti,chikunguniya
+2018,sikkim,28,105.4,14.4,63.03,aegypti,chikunguniya
+2018,tamil nadu,284,49.6,30.8,61.5,aegypti,chikunguniya
+2018,tripura,75,203,26.4,75.7,aegypti,chikunguniya
+2018,telangana,489,63.7,28.9,53.8,aegypti,chikunguniya
+2018,uttar pradesh,58,43.3,29.4,45.1,aegypti,chikunguniya
+2018,uttarakhand,7,92.3,23.6,49.9,aegypti,chikunguniya
+2018,a&n island,27,151.21,28.4,75.7,aegypti,chikunguniya
+2018,chandigarh,4,55.6,25.5,45.6,aegypti,chikunguniya
+2018,delhi,407,20.88,28.9,40.7,aegypti,chikunguniya
+2018,d&n haveli,0,107,28.15,66.8,aegypti,chikunguniya
+2018,pudducherry,361,171.2,29.4,71.2,aegypti,chikunguniya
+2018,arunachal pradesh,4011,47.54,30.63,64.4,aedes,dengue
+2018,arunachal pradesh,1,170.9,25.08,73.22,aedes,dengue
+2018,assam,188,145,26.1,73.8,aedes,dengue
+2018,bihar,2142,31.22,29.5,50.4,aedes,dengue
+2018,chhatisgarh,2674,67.04,29.6,49.2,aedes,dengue
+2018,goa,335,118.4,28.5,71.4,aedes,dengue
+2018,gujarat,7579,49.06,29.95,47.57,aedes,dengue
+2018,haryana,1898,21.3,29.1,37.9,aedes,dengue
+2018,himachal pradesh,4672,105,18.4,53.4,aedes,dengue
+2018,jammu & kashmir,214,40.7,25.88,37.8,aedes,dengue
+2018,jharkhand,463,70.76,26.78,55.14,aedes,dengue
+2018,karnatak,4427,45.58,28.03,56.5,aedes,dengue
+2018,kerala,4827,128.3,28.03,75.7,aedes,dengue
+2018,lakshdweep,0,90.35,28.19,74.8,aedes,dengue
+2018,madhya pradesh,4506,66.2,28.7,46.9,aedes,dengue
+2018,meghalaya,44,301,19.06,84.4,aedes,dengue
+2018,maharastrarastrarastrarastra,11011,64.14,28.9,45.9,aedes,dengue
+2018,manipur,14,110.9,21.77,77.6,aedes,dengue
+2018,mizoram,68,128.9,24.75,76.8,aedes,dengue
+2018,nagaland,369,171.22,25.05,75.6,aedes,dengue
+2018,orissa,5198,71.4,29.68,60.4,aedes,dengue
+2018,punjab,14890,38.4,27.98,42.8,aedes,dengue
+2018,rajasthan,9587,25.4,29,35.11,aedes,dengue
+2018,sikkim,320,105.4,14.4,63.03,aedes,dengue
+2018,tamil nadu,4486,49.6,30.8,61.5,aedes,dengue
+2018,tripura,100,203,26.4,75.7,aedes,dengue
+2018,telangana,4592,63.7,28.9,53.8,aedes,dengue
+2018,uttar pradesh,3829,43.3,29.4,45.1,aedes,dengue
+2018,uttarakhand,689,92.3,23.6,49.9,aedes,dengue
+2018,a&n island,49,151.21,28.4,75.7,aedes,dengue
+2018,chandigarh,301,55.6,25.5,45.6,aedes,dengue
+2018,delhi,7136,20.88,28.9,40.7,aedes,dengue
+2018,d&n haveli,493,107,28.15,66.8,aedes,dengue
+2018,pudducherry,592,171.2,29.4,71.2,aedes,dengue
+2018,arunachal pradesh,4011,47.54,30.63,64.4,aedes,dengue
+2018,arunachal pradesh,1,170.9,25.08,73.22,aedes,dengue
+2018,assam,188,145,26.1,73.8,aedes,dengue
+2018,bihar,2142,31.22,29.5,50.4,aedes,dengue
+2018,chhatisgarh,2674,67.04,29.6,49.2,aedes,dengue
+2018,goa,335,118.4,28.5,71.4,aedes,dengue
+2018,gujarat,7579,49.06,29.95,47.57,aedes,dengue
+2018,haryana,1898,21.3,29.1,37.9,aedes,dengue
+2018,himachal pradesh,4672,105,18.4,53.4,aedes,dengue
+2018,jammu & kashmir,214,40.7,25.88,37.8,aedes,dengue
+2018,jharkhand,463,70.76,26.78,55.14,aedes,dengue
+2018,karnatak,4427,45.58,28.03,56.5,aedes,dengue
+2018,kerala,4827,128.3,28.03,75.7,aedes,dengue
+2018,lakshdweep,0,90.35,28.19,74.8,aedes,dengue
+2018,madhya pradesh,4506,66.2,28.7,46.9,aedes,dengue
+2018,meghalaya,44,301,19.06,84.4,aedes,dengue
+2018,maharastrarastrarastrarastra,11011,64.14,28.9,45.9,aedes,dengue
+2018,manipur,14,110.9,21.77,77.6,aedes,dengue
+2018,mizoram,68,128.9,24.75,76.8,aedes,dengue
+2018,nagaland,369,171.22,25.05,75.6,aedes,dengue
+2018,orissa,5198,71.4,29.68,60.4,aedes,dengue
+2018,punjab,14890,38.4,27.98,42.8,aedes,dengue
+2018,rajasthan,9587,25.4,29,35.11,aedes,dengue
+2018,sikkim,320,105.4,14.4,63.03,aedes,dengue
+2018,tamil nadu,4486,49.6,30.8,61.5,aedes,dengue
+2018,tripura,100,203,26.4,75.7,aedes,dengue
+2018,telangana,4592,63.7,28.9,53.8,aedes,dengue
+2018,uttar pradesh,3829,43.3,29.4,45.1,aedes,dengue
+2018,uttarakhand,689,92.3,23.6,49.9,aedes,dengue
+2018,a&n island,49,151.21,28.4,75.7,aedes,dengue
+2018,chandigarh,301,55.6,25.5,45.6,aedes,dengue
+2018,delhi,7136,20.88,28.9,40.7,aedes,dengue
+2018,d&n haveli,493,107,28.15,66.8,aedes,dengue
+2018,pudducherry,592,171.2,29.4,71.2,aedes,dengue
+2018,arunachal pradesh,4011,47.54,30.63,64.4,aedes,dengue
+2018,arunachal pradesh,1,170.9,25.08,73.22,aedes,dengue
+2018,assam,188,145,26.1,73.8,aedes,dengue
+2018,bihar,2142,31.22,29.5,50.4,aedes,dengue
+2018,chhatisgarh,2674,67.04,29.6,49.2,aedes,dengue
+2018,goa,335,118.4,28.5,71.4,aedes,dengue
+2018,gujarat,7579,49.06,29.95,47.57,aedes,dengue
+2018,haryana,1898,21.3,29.1,37.9,aedes,dengue
+2018,himachal pradesh,4672,105,18.4,53.4,aedes,dengue
+2018,jammu & kashmir,214,40.7,25.88,37.8,aedes,dengue
+2018,jharkhand,463,70.76,26.78,55.14,aedes,dengue
+2018,karnatak,4427,45.58,28.03,56.5,aedes,dengue
+2018,kerala,4827,128.3,28.03,75.7,aedes,dengue
+2018,lakshdweep,0,90.35,28.19,74.8,aedes,dengue
+2018,madhya pradesh,4506,66.2,28.7,46.9,aedes,dengue
+2018,meghalaya,44,301,19.06,84.4,aedes,dengue
+2018,maharastrarastrarastrarastra,11011,64.14,28.9,45.9,aedes,dengue
+2018,manipur,14,110.9,21.77,77.6,aedes,dengue
+2018,mizoram,68,128.9,24.75,76.8,aedes,dengue
+2018,nagaland,369,171.22,25.05,75.6,aedes,dengue
+2018,orissa,5198,71.4,29.68,60.4,aedes,dengue
+2018,punjab,14890,38.4,27.98,42.8,aedes,dengue
+2018,rajasthan,9587,25.4,29,35.11,aedes,dengue
+2018,sikkim,320,105.4,14.4,63.03,aedes,dengue
+2018,tamil nadu,4486,49.6,30.8,61.5,aedes,dengue
+2018,tripura,100,203,26.4,75.7,aedes,dengue
+2018,telangana,4592,63.7,28.9,53.8,aedes,dengue
+2018,uttar pradesh,3829,43.3,29.4,45.1,aedes,dengue
+2018,uttarakhand,689,92.3,23.6,49.9,aedes,dengue
+2018,a&n island,49,151.21,28.4,75.7,aedes,dengue
+2018,chandigarh,301,55.6,25.5,45.6,aedes,dengue
+2018,delhi,7136,20.88,28.9,40.7,aedes,dengue
+2018,d&n haveli,493,107,28.15,66.8,aedes,dengue
+2018,pudducherry,592,171.2,29.4,71.2,aedes,dengue
+2018,arunachal pradesh,4011,47.54,30.63,64.4,aedes,dengue
+2018,arunachal pradesh,1,170.9,25.08,73.22,aedes,dengue
+2018,assam,188,145,26.1,73.8,aedes,dengue
+2018,bihar,2142,31.22,29.5,50.4,aedes,dengue
+2018,chhatisgarh,2674,67.04,29.6,49.2,aedes,dengue
+2018,goa,335,118.4,28.5,71.4,aedes,dengue
+2018,gujarat,7579,49.06,29.95,47.57,aedes,dengue
+2018,haryana,1898,21.3,29.1,37.9,aedes,dengue
+2018,himachal pradesh,4672,105,18.4,53.4,aedes,dengue
+2018,jammu & kashmir,214,40.7,25.88,37.8,aedes,dengue
+2018,jharkhand,463,70.76,26.78,55.14,aedes,dengue
+2018,karnatak,4427,45.58,28.03,56.5,aedes,dengue
+2018,kerala,4827,128.3,28.03,75.7,aedes,dengue
+2018,lakshdweep,0,90.35,28.19,74.8,aedes,dengue
+2018,madhya pradesh,4506,66.2,28.7,46.9,aedes,dengue
+2018,meghalaya,44,301,19.06,84.4,aedes,dengue
+2018,maharastrarastrarastrarastra,11011,64.14,28.9,45.9,aedes,dengue
+2018,manipur,14,110.9,21.77,77.6,aedes,dengue
+2018,mizoram,68,128.9,24.75,76.8,aedes,dengue
+2018,nagaland,369,171.22,25.05,75.6,aedes,dengue
+2018,orissa,5198,71.4,29.68,60.4,aedes,dengue
+2018,punjab,14890,38.4,27.98,42.8,aedes,dengue
+2018,rajasthan,9587,25.4,29,35.11,aedes,dengue
+2018,sikkim,320,105.4,14.4,63.03,aedes,dengue
+2018,tamil nadu,4486,49.6,30.8,61.5,aedes,dengue
+2018,tripura,100,203,26.4,75.7,aedes,dengue
+2018,telangana,4592,63.7,28.9,53.8,aedes,dengue
+2018,uttar pradesh,3829,43.3,29.4,45.1,aedes,dengue
+2018,uttarakhand,689,92.3,23.6,49.9,aedes,dengue
+2018,a&n island,49,151.21,28.4,75.7,aedes,dengue
+2018,chandigarh,301,55.6,25.5,45.6,aedes,dengue
+2018,delhi,7136,20.88,28.9,40.7,aedes,dengue
+2018,d&n haveli,493,107,28.15,66.8,aedes,dengue
+2018,pudducherry,592,171.2,29.4,71.2,aedes,dengue
+2018,arunachal pradesh,79,47.54,30.63,64.4,aegypti,chikunguniya
+2018,arunachal pradesh,1,170.9,25.08,73.22,aegypti,chikunguniya
+2018,assam,3,145,26.1,73.8,aegypti,chikunguniya
+2018,bihar,156,31.22,29.5,50.4,aegypti,chikunguniya
+2018,chhatisgarh,0,67.04,29.6,49.2,aegypti,chikunguniya
+2018,goa,77,118.4,28.5,71.4,aegypti,chikunguniya
+2018,gujarat,1290,49.06,29.95,47.57,aegypti,chikunguniya
+2018,haryana,3,21.3,29.1,37.9,aegypti,chikunguniya
+2018,himachal pradesh,0,105,18.4,53.4,aegypti,chikunguniya
+2018,jharkhand,851,70.76,26.78,55.14,aegypti,chikunguniya
+2018,karnatak,2546,45.58,28.03,56.5,aegypti,chikunguniya
+2018,kerala,77,128.3,28.03,75.7,aegypti,chikunguniya
+2018,madhya pradesh,1609,66.2,28.7,46.9,aegypti,chikunguniya
+2018,meghalaya,2,301,19.06,84.4,aegypti,chikunguniya
+2018,maharastrarastrarastrarastra,1009,64.14,28.9,45.9,aegypti,chikunguniya
+2018,manipur,0,110.9,21.77,77.6,aegypti,chikunguniya
+2018,orissa,0,71.4,29.68,60.4,aegypti,chikunguniya
+2018,punjab,25,38.4,27.98,42.8,aegypti,chikunguniya
+2018,rajasthan,254,25.4,29,35.11,aegypti,chikunguniya
+2018,sikkim,28,105.4,14.4,63.03,aegypti,chikunguniya
+2018,tamil nadu,284,49.6,30.8,61.5,aegypti,chikunguniya
+2018,tripura,75,203,26.4,75.7,aegypti,chikunguniya
+2018,telangana,489,63.7,28.9,53.8,aegypti,chikunguniya
+2018,uttar pradesh,58,43.3,29.4,45.1,aegypti,chikunguniya
+2018,uttarakhand,7,92.3,23.6,49.9,aegypti,chikunguniya
+2018,a&n island,27,151.21,28.4,75.7,aegypti,chikunguniya
+2018,chandigarh,4,55.6,25.5,45.6,aegypti,chikunguniya
+2018,delhi,407,20.88,28.9,40.7,aegypti,chikunguniya
+2018,d&n haveli,0,107,28.15,66.8,aegypti,chikunguniya
+2018,pudducherry,361,171.2,29.4,71.2,aegypti,chikunguniya
+2018,arunachal pradesh,79,47.54,30.63,64.4,aegypti,chikunguniya
+2018,arunachal pradesh,1,170.9,25.08,73.22,aegypti,chikunguniya
+2018,assam,3,145,26.1,73.8,aegypti,chikunguniya
+2018,bihar,156,31.22,29.5,50.4,aegypti,chikunguniya
+2018,chhatisgarh,0,67.04,29.6,49.2,aegypti,chikunguniya
+2018,goa,77,118.4,28.5,71.4,aegypti,chikunguniya
+2018,gujarat,1290,49.06,29.95,47.57,aegypti,chikunguniya
+2018,haryana,3,21.3,29.1,37.9,aegypti,chikunguniya
+2018,himachal pradesh,0,105,18.4,53.4,aegypti,chikunguniya
+2018,jharkhand,851,70.76,26.78,55.14,aegypti,chikunguniya
+2018,karnatak,2546,45.58,28.03,56.5,aegypti,chikunguniya
+2018,kerala,77,128.3,28.03,75.7,aegypti,chikunguniya
+2018,madhya pradesh,1609,66.2,28.7,46.9,aegypti,chikunguniya
+2018,meghalaya,2,301,19.06,84.4,aegypti,chikunguniya
+2018,maharastrarastrarastrarastra,1009,64.14,28.9,45.9,aegypti,chikunguniya
+2018,manipur,0,110.9,21.77,77.6,aegypti,chikunguniya
+2018,orissa,0,71.4,29.68,60.4,aegypti,chikunguniya
+2018,punjab,25,38.4,27.98,42.8,aegypti,chikunguniya
+2018,rajasthan,254,25.4,29,35.11,aegypti,chikunguniya
+2018,sikkim,28,105.4,14.4,63.03,aegypti,chikunguniya
+2018,tamil nadu,284,49.6,30.8,61.5,aegypti,chikunguniya
+2018,tripura,75,203,26.4,75.7,aegypti,chikunguniya
+2018,telangana,489,63.7,28.9,53.8,aegypti,chikunguniya
+2018,uttar pradesh,58,43.3,29.4,45.1,aegypti,chikunguniya
+2018,uttarakhand,7,92.3,23.6,49.9,aegypti,chikunguniya
+2018,a&n island,27,151.21,28.4,75.7,aegypti,chikunguniya
+2018,chandigarh,4,55.6,25.5,45.6,aegypti,chikunguniya
+2018,delhi,407,20.88,28.9,40.7,aegypti,chikunguniya
+2018,d&n haveli,0,107,28.15,66.8,aegypti,chikunguniya
+2018,pudducherry,361,171.2,29.4,71.2,aegypti,chikunguniya
+2018,arunachal pradesh,79,47.54,30.63,64.4,aegypti,chikunguniya
+2018,arunachal pradesh,1,170.9,25.08,73.22,aegypti,chikunguniya
+2018,assam,3,145,26.1,73.8,aegypti,chikunguniya
+2018,bihar,156,31.22,29.5,50.4,aegypti,chikunguniya
+2018,chhatisgarh,0,67.04,29.6,49.2,aegypti,chikunguniya
+2018,goa,77,118.4,28.5,71.4,aegypti,chikunguniya
+2018,gujarat,1290,49.06,29.95,47.57,aegypti,chikunguniya
+2018,haryana,3,21.3,29.1,37.9,aegypti,chikunguniya
+2018,himachal pradesh,0,105,18.4,53.4,aegypti,chikunguniya
+2018,jharkhand,851,70.76,26.78,55.14,aegypti,chikunguniya
+2018,karnatak,2546,45.58,28.03,56.5,aegypti,chikunguniya
+2018,kerala,77,128.3,28.03,75.7,aegypti,chikunguniya
+2018,madhya pradesh,1609,66.2,28.7,46.9,aegypti,chikunguniya
+2018,meghalaya,2,301,19.06,84.4,aegypti,chikunguniya
+2018,maharastrarastrarastrarastra,1009,64.14,28.9,45.9,aegypti,chikunguniya
+2018,manipur,0,110.9,21.77,77.6,aegypti,chikunguniya
+2018,orissa,0,71.4,29.68,60.4,aegypti,chikunguniya
+2018,punjab,25,38.4,27.98,42.8,aegypti,chikunguniya
+2018,rajasthan,254,25.4,29,35.11,aegypti,chikunguniya
+2018,sikkim,28,105.4,14.4,63.03,aegypti,chikunguniya
+2018,tamil nadu,284,49.6,30.8,61.5,aegypti,chikunguniya
+2018,tripura,75,203,26.4,75.7,aegypti,chikunguniya
+2018,telangana,489,63.7,28.9,53.8,aegypti,chikunguniya
+2018,uttar pradesh,58,43.3,29.4,45.1,aegypti,chikunguniya
+2018,uttarakhand,7,92.3,23.6,49.9,aegypti,chikunguniya
+2018,a&n island,27,151.21,28.4,75.7,aegypti,chikunguniya
+2018,chandigarh,4,55.6,25.5,45.6,aegypti,chikunguniya
+2018,delhi,407,20.88,28.9,40.7,aegypti,chikunguniya
+2018,d&n haveli,0,107,28.15,66.8,aegypti,chikunguniya
+2018,pudducherry,361,171.2,29.4,71.2,aegypti,chikunguniya
+2018,arunachal pradesh,79,47.54,30.63,64.4,aegypti,chikunguniya
+2018,arunachal pradesh,1,170.9,25.08,73.22,aegypti,chikunguniya
+2018,assam,3,145,26.1,73.8,aegypti,chikunguniya
+2018,bihar,156,31.22,29.5,50.4,aegypti,chikunguniya
+2018,chhatisgarh,0,67.04,29.6,49.2,aegypti,chikunguniya
+2018,goa,77,118.4,28.5,71.4,aegypti,chikunguniya
+2018,gujarat,1290,49.06,29.95,47.57,aegypti,chikunguniya
+2018,haryana,3,21.3,29.1,37.9,aegypti,chikunguniya
+2018,himachal pradesh,0,105,18.4,53.4,aegypti,chikunguniya
+2018,jharkhand,851,70.76,26.78,55.14,aegypti,chikunguniya
+2018,karnatak,2546,45.58,28.03,56.5,aegypti,chikunguniya
+2018,kerala,77,128.3,28.03,75.7,aegypti,chikunguniya
+2018,madhya pradesh,1609,66.2,28.7,46.9,aegypti,chikunguniya
+2018,meghalaya,2,301,19.06,84.4,aegypti,chikunguniya
+2018,maharastrarastrarastrarastra,1009,64.14,28.9,45.9,aegypti,chikunguniya
+2018,manipur,0,110.9,21.77,77.6,aegypti,chikunguniya
+2018,orissa,0,71.4,29.68,60.4,aegypti,chikunguniya
+2018,punjab,25,38.4,27.98,42.8,aegypti,chikunguniya
+2018,rajasthan,254,25.4,29,35.11,aegypti,chikunguniya
+2018,sikkim,28,105.4,14.4,63.03,aegypti,chikunguniya
+2018,tamil nadu,284,49.6,30.8,61.5,aegypti,chikunguniya
+2018,tripura,75,203,26.4,75.7,aegypti,chikunguniya
+2018,telangana,489,63.7,28.9,53.8,aegypti,chikunguniya
+2018,uttar pradesh,58,43.3,29.4,45.1,aegypti,chikunguniya
+2018,uttarakhand,7,92.3,23.6,49.9,aegypti,chikunguniya
+2018,a&n island,27,151.21,28.4,75.7,aegypti,chikunguniya
+2018,chandigarh,4,55.6,25.5,45.6,aegypti,chikunguniya
+2018,delhi,407,20.88,28.9,40.7,aegypti,chikunguniya
+2018,d&n haveli,0,107,28.15,66.8,aegypti,chikunguniya
+2018,pudducherry,361,171.2,29.4,71.2,aegypti,chikunguniya
