@@ -82,51 +82,54 @@ def predict():
     })
 @app.route("/predict_from_flutter", methods=["POST"])
 def predict_from_flutter():
-    # Retrieve JSON data sent from Flutter app
-    data = request.json
+   # Retrieve form data
+    form_data = request.form
 
-    # Parse JSON data and extract input values
-    feature2 = data['feature2']
-    feature3 = data['feature3']
-    feature4 = data['feature4']
-    feature5 = data['feature5']
-    feature6 = data['feature6']
-
-    # Convert input values into appropriate data format
+    # Convert form data into pandas DataFrame
     input_data = {
-        'rainfall in mm': [float(feature2)],
-        'temperature': [float(feature3)],
-        'avg relative humidity': [float(feature4)],
-        'state': [feature5],
-        'mosquito': [feature6]
+        'rainfall in mm': [float(form_data['feature2'])],
+        'temperature': [float(form_data['feature3'])],
+        'avg relative humidity': [float(form_data['feature4'])],
+        'state': [form_data['feature5']],
+        'mosquito': [form_data['feature6']]
     }
     df = pd.DataFrame(input_data)
 
-    # Preprocess input data, make predictions, and prepare response
-    # (Code similar to the /predict route above)
+    # Preprocess input data
     numeric_features = ['rainfall in mm', 'temperature', 'avg relative humidity']
     df[numeric_features] = scaler.transform(df[numeric_features])
+    
+    # Encode categorical features
     encoded_data = encoder.transform(df[categorical_cols])
     df_encoded = pd.DataFrame(encoded_data, columns=encoded_cols)
+
+    # Concatenate numeric and encoded categorical features
     df_combined = pd.concat([df[numeric_features], df_encoded], axis=1)
-    no_of_cases = svr.predict(df_combined)
-    no_of_cases = no_of_cases[0]
-    no_of_cases = abs(int((no_of_cases * y_std) + y_mean))
+
+    # Make prediction
+    no_of_cases=svr.predict(df_combined)
+    no_of_cases=no_of_cases[0]
+    no_of_cases=abs(int((no_of_cases*y_std)+y_mean))
     prediction = model.predict(df_combined)
-    prediction = prediction[0]
-    probability = model.predict_proba(df_combined)
-    probability = np.max(probability)
+    prediction=prediction[0]
+    probability=model.predict_proba(df_combined)
+    probability=np.max(probability)
 
-    if no_of_cases > 1500:
-        cat = "Category A"
-    elif no_of_cases > 800 and no_of_cases < 1500:
-        cat = "Category B"
-    elif no_of_cases > 300 and no_of_cases < 800:
-        cat = "Category C"
+    if no_of_cases>1500:
+        cat="Category A"
+    elif no_of_cases>800 and no_of_cases<1500:
+        cat="Category B"
+    elif no_of_cases>300 and no_of_cases<800:
+        cat="Category C"
     else:
-        cat = "Category D"
+        cat="Category D"
 
-    return jsonify({'prediction': prediction, 'probability': probability, 'no_of_cases': no_of_cases, 'category': cat})
+    return jsonify({
+        'prediction': prediction,
+        'probability': probability,
+        'no_of_cases': no_of_cases,
+        'cat': cat
+    })
 
 if __name__ == "__main__":
-    app.run(debug=True,host='0.0.0.0',port=4000)
+    app.run(debug=True)
