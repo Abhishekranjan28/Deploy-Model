@@ -13,7 +13,7 @@ y_std=np.std(y1)
 y_new=(y1-y_mean)/y_std
 
 # Create Flask app
-app = Flask(_name_)
+app = Flask(__name__)
 CORS(app)
 # Load the pickle model
 model = pickle.load(open("model.pkl", "rb"))
@@ -128,5 +128,5 @@ def predict_from_flutter():
 
     return jsonify({'prediction': prediction, 'probability': probability, 'no_of_cases': no_of_cases, 'category': cat})
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     app.run(debug=True,host='0.0.0.0')
