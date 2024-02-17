@@ -129,4 +129,4 @@ def predict_from_flutter():
     return jsonify({'prediction': prediction, 'probability': probability, 'no_of_cases': no_of_cases, 'category': cat})
 
 if __name__ == "__main__":
-    app.run(debug=True,host='0.0.0.0')
+    app.run(debug=True,host='0.0.0.0',port=4000)
